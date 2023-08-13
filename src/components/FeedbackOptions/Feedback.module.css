@@ -1,0 +1,14 @@
+.appWrapper li {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    box-sizing: border-box;
+    background-color: #fff;
+    border: none;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    color: lightblue;
+    font-weight: 700;
+}

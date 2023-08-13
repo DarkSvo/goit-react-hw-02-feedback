@@ -1,0 +1,7 @@
+.statWrapper li {
+    display: flex;
+}
+.statWrapper {
+    color: aliceblue;
+    font-weight: 600;
+}
